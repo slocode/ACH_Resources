@@ -1,0 +1,22 @@
+body { color: #000; background: #FFFFFF; }
+div { padding: 0px; margin: 0px; }
+.sheet { font-family: Helvetica, Arial, sans-serif; }
+table.sheet { background-color: #FFFFFF; margin: 3px 0; border-left: 1px solid #999; border-top: 1px solid #999; border-bottom: 1px solid #999; }
+table.form { background-color: #FFFFFF; margin: 3px 0; border: 1px solid #999; }
+caption.sheet { font-weight: bold; font-size: 24px; color:rgb(128, 128, 128); margin: 0px 0px 10px 0px; }
+caption.form { font-weight: bold; font-size: 13pt; }
+tr.head { background-color: rgb(188, 194, 199); text-align: left; }
+tr.main { background-color: #FFFFFF; }
+tr.alt { background-color: #EDF3FE; }
+tr > td.row { border-bottom: 1px solid #ddd; }
+tr.form { background-color: #EDF3FE; }
+th.name { font-size: 10pt; padding: 3px; }
+th.row { font-size: 10pt; padding: 3px 10px 3px 10px; border-right: 1px solid #999; }
+td.name { font-size: 10pt; padding: 2px; vertical-align: top; }
+td.row { font-size: 10pt; padding: 3px 10px 3px 10px; vertical-align: top; border-right: 1px solid #999; }
+td.form { font-size: 10pt; padding: 2px; font-weight: bold; }
+td.value { font-size: 10pt; padding: 2px;  }
+.info_top { align: left; font-size: 9pt; border-bottom: 1px solid #999; margin-bottom: 10px; }
+.info_bottom { align: left; font-size: 9pt; border-top: 1px solid #999; margin-top: 10px; }
+
+font.font0 { font-family: 'Helvetica Neue'; font-size: 18.0px; }
